@@ -1,5 +1,3 @@
-<img src="./FOTO_DE_LEANDRO.jpeg" alt="Descrição da imagem" width="150" height="150">
-
 ### oi 👋, 📌 PRAZER EM CONHECE-LO(A)MEU NOME E LEANDRO VASCONCELOS NÓBREGA.
 
 # My Contacts
