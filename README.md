@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @leandrocvn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="./FOTO_DE_LEANDRO.jpeg" alt="Descrição da imagem" width="150" height="150">
 
-<!---
-leandrocvn/leandrocvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### oi 👋, 📌 PRAZER EM CONHECE-LO(A)MEU NOME E LEANDRO VASCONCELOS NÓBREGA.
+
+# My Contacts
+
+<div> 
+<a href = "https://mail.google.com/mail/u/0/#inbox"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/leandro-vasconcelos-nobrega-27011a250///" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
