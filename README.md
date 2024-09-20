@@ -12,8 +12,8 @@
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvimento back-end.
 
-- 💼 **Atualmente**: Estágio como Desenvolvedor Back-end
-- 🚀 **Foco**: Aprendizado contínuo em Java e Spring Boot
+- 💼 **Atualmente**:Estágio
+- 🚀 **Foco**: Aprendizado contínuo em Javascript
 - 🌍 **Objetivo**: Contribuir com soluções inovadoras e escaláveis
 - 😄 **Pronomes**: ele/dele
 - ⚡ **Curiosidade**: Apaixonado por Tecnologia desde a infância!
