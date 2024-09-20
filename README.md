@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/leandro-vasconcelos-nobrega-27011a250///" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<img align="right" alt="Coding" width="400" src="https___cdna_artstation.com_p_assets_images_images_021_720_920_original_pixel-jeff-mario.gif_1572709433">
-
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia
 
 - 💼 **Atualmente**:Estágio
